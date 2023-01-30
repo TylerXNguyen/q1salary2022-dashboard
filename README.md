@@ -6,6 +6,7 @@ https://public.tableau.com/app/profile/tyler.nguyen1185/viz/SalaryAnalysis_16750
 
 ### Sources
 Population Data: https://www.california-demographics.com/counties_by_population
+
 QCEW Data : https://data.bls.gov/cew/apps/data_views/data_views.htm#tab=Tables
 
 The Quarterly Census of Employment and Wages (QCEW) Program is a Federal-State cooperative program between the U.S. Department of Labor’s Bureau of Labor Statistics (BLS) and the California EDD’s Labor Market Information Division (LMID). The QCEW program produces a comprehensive tabulation of employment and wage information for workers covered by California Unemployment Insurance (UI) laws and Federal workers covered by the Unemployment Compensation for Federal Employees (UCFE) program.
